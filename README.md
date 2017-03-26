@@ -1,0 +1,2 @@
+# tuvascriptpython
+myscript python
